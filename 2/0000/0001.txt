@@ -42,7 +42,7 @@ Ca a été enfermé dans un nuage de fumée blanche！\xfffe
 \xf000Ă\x0001\x0000's \xfffeDéfense augmente !
 \xf000Ă\x0001\x0000's \xfffePrécision augmente !
 \xf000ĉ\x0001\x0000 \xfffea été utilisé
-Deuxième Pokémon\xfffemakes it impossible to aim!
+Le deuxième Pokémon\xfffene permet pas de viser correctement!
 There is not room left in your PC!
 \xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
 It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
