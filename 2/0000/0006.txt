@@ -1,22 +1,22 @@
-つかう
-すてる
-とうろく
-もたせる
-タグをみる
-けってい
-おりる
-もどる
-やめる
-みせる
-ダミー
-キャンセル
-もちもの
-メール
-あずかる
-あずける
-みる
-なし
-かいじょ
+UTILISER
+JETER
+ENREGISTRER
+DONNER
+REGARDER
+CONFIRMER
+MARCHER
+RETOUR
+ANNULER
+MONTRER
+FACTICE
+ANNULER
+SAC
+LETTRE
+PRENDRE
+DONNER
+VERIFIER
+RIEN
+DESELECTIONNER
 ？？？
 ？？？？？
 ／
@@ -26,16 +26,15 @@
 ―――
 ♂
 ♀
-Ｌｖ．
-Ｎｏ
+Nv.
+No.
 ＋
 →
-ＩＤＮｏ
+ID No.
 　
-カーソル
-まえに　もどります！
-なにを　しますか？
-あげる
+Curseur
+Retour!
+Que faire maintenant?
 \xf000Ȃ\x0001\x0000
 ×
 のみ
