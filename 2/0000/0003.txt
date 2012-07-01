@@ -1,16 +1,16 @@
-いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
-はい
-いいえ
+Voulez vous enregistrer la vidéo du combat de\xfffe maintenant ?
+Oui
+Non
 いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
-はい
-いいえ
+Oui
+Non
 ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
-はい
-いいえ
+Oui
+Non
 バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
-たたかいが　きろく　されました！
-ふぐあいにより\xfffeきろく　できませんでした
-あいてを　まっています\xfffeしばらく　おまち　ください！
+Le combat à été enregistré !
+\xfffeN'a pas été en mesure d'enregistrer à cause d'un bug!
+Veuillez patienter\xfffeen attente de vos adversaire!
 この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
 この　あいてとは　ろくが　できません
 この　しょうぶは　ろくが　できません
