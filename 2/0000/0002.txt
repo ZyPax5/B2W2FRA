@@ -84,25 +84,25 @@ La CS ne peut être\xfffeoublier maintenant.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000は\xfffeすでに　せんとうに　でています
-\xf000Ă\x0001\x0000は　たたかうための\xfffeげんきが　のこっていません！
-\xf000Ă\x0001\x0000を\xfffeもどすことが　できない！
-タマゴを\xfffeせんとうに　だすことは　できません
-パートナーの　ポケモンを\xfffeえらぶことは　できません！
-つかっても　こうかが　ないよ
-\xf000Ă\x0001\x0000の　たいりょくが\xfffe\xf000Ȃ\x0001\x0001　かいふくした！
-\xf000Ă\x0001\x0000の　どくは\xfffeきれい　さっぱり　なくなった！
-\xf000Ă\x0001\x0000の\xfffeからだの　しびれが　とれた！
-\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000の\xfffeからだの　こおりが　とけた！
-わざポイントが　かいふくした！　
-\xf000Ă\x0001\x0000は\xfffeげんきを　とりもどした！
-\xf000Ă\x0001\x0000は\xfffeけんこうに　なった！
-\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000の\xfffeメロメロが　とけた！
-\xf000Ă\x0001\x0000は\xfffeめを　さました！
-\xf000Ă\x0001\x0000は　すでに\xfffeせんたく　されています
-どの　わざを　かいふくする？
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
+\xf000Ă\x0001\x0000\xfffeest toujours en train de combattre!
+\xf000Ă\x0001\x0000\xfffen'a plus d'énergie pour combattre!
+\xf000Ă\x0001\x0000\xfffene peut être échanger!
+Un  oeuf ne peut pas se battre!
+Vous ne pouvez pas décider pour\xfffevotre partenaire !
+ça n'aura aucun effet...
+\xf000Ă\x0001\x0000 à récupérer\xfffe\xf000Ȃ\x0001\x0001 PV!
+\xf000Ă\x0001\x0000n'est plus \xfffeempoisonné!
+\xf000Ă\x0001\x0000n'est plus \xfffeparalysé!
+\xf000Ă\x0001\x0000\xfffen'est plus brûlé!
+\xf000Ă\x0001\x0000\xfffen'est plus gelé!
+PP Restoré！　
+\xf000Ă\x0001\x0000\xfffen'est plus évanouit!
+\xf000Ă\x0001\x0000\xfffeest de nouveau en bonne santé!
+\xf000Ă\x0001\x0000\xfffen'est plus confus!
+\xf000Ă\x0001\x0000\xfffea obtenu plus de son engouement!
+\xf000Ă\x0001\x0000\xfffese réveille!
+\xf000Ă\x0001\x0000\xfffeest déjà séléctionner!
+Restorer quelle technique?
+\xf000ć\x0001\x0001's　effect prevents the item's use on\xfffe\xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000は\xfffeもどすことが　できません！
 \xf000Ă\x0001\x0000は\xfffeすでに　もどっています
