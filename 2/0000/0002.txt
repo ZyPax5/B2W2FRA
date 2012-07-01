@@ -19,11 +19,11 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 ＰＰ
-いれかえる
+Remplacer
 ♂
 ♀
 RESUME
-わざをみる
+Voir le travail
 Ne peut pas combattre
 En combat
 Est prêt
@@ -85,7 +85,7 @@ La CS ne peut être\xfffeoublier maintenant.
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000Ă\x0001\x0000は\xfffeすでに　せんとうに　でています
-\xf000Ă\x0001\x0000は　たたかうための\xfffeげんきが　のこっていません！
+\xf000Ă\x0001\x0000は\xfffeN'est pas en forme pour combattre ！
 \xf000Ă\x0001\x0000を\xfffeもどすことが　できない！
 タマゴを\xfffeせんとうに　だすことは　できません
 パートナーの　ポケモンを\xfffeえらぶことは　できません！
