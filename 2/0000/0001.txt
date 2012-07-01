@@ -43,11 +43,11 @@ Ca a été enfermé dans un nuage de fumée blanche！\xfffe
 \xf000Ă\x0001\x0000's \xfffePrécision augmente !
 \xf000ĉ\x0001\x0000 \xfffea été utilisé
 Le deuxième Pokémon\xfffene permet pas de viser correctement!
-There is not room left in your PC!
+Il n'y a plus de place dans votre PC!
 \xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
 It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
 It’s no good, it's impossible\xfffeto aim at a Pokémon not in sight!
-Not enough energy!
+Plus assez d'énergie!
 Professor Juniper’s words echoed...\xfffeThere is a time and place for everything! But not now.\xf000븀\x0000\xfffe
 You cannot throw the ball\xfffewithout concentrating!
 The Ball cannot be used \xfffebecause of the device Ghetsis used!
