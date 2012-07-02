@@ -1,2 +1,2 @@
-モンスターボールを　つかうまえに\xfffeたいりょくを　へらすと　いいよ！
-ベル　は\xfffeモンスターボールを　つかった！
+Utilises une Pokéball après\xfffeavoir diminué ses PV!
+Bianca utilise\xfffePokéball
