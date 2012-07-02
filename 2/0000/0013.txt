@@ -1,117 +1,117 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-もちもの
-せいかく
-とくせい
+ITEM
+NATURE
+CAPACITE
 \xf000ċ\x0001\x0000
-ボックス１
-ボックス２
-ボックス３
-ボックス４
-ボックス５
-ボックス６
-ボックス７
-ボックス８
-ボックス９
-ボックス１０
-ボックス１１
-ボックス１２
-ボックス１３
-ボックス１４
-ボックス１５
-ボックス１６
-ボックス１７
-ボックス１８
-ボックス１９
-ボックス２０
-ボックス２１
-ボックス２２
-ボックス２３
-ボックス２４
+BOITE 1
+BOITE 2
+BOITE 3
+BOITE 4
+BOITE 5
+BOITE 6
+BOITE 7
+BOITE 8
+BOITE 9
+BOITE 10
+BOITE 11
+BOITE 12
+BOITE 13
+BOITE 14
+BOITE 15
+BOITE 16
+BOITE 17
+BOITE 18
+BOITE 19
+BOITE 20
+BOITE 21
+BOITE 22
+BOITE 23
+BOITE 24
 \xf000ȁ\x0001\x0000
-ジャンプする
-かべがみ
-なまえ
-やめる
-ふうけい１
-ふうけい２
-ふうけい３
-エトセトラ
-だいすき１
-だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
-モノクロ
-プラズマだん
-ポケウッド
-ＰＷＴ
-キュレム１
-キュレム２
-レシラム
-ゼクロム
-もどる
-まえへ
-つぎへ
-てもちポケモン
-ボックスリスト
-バトルボックス
-ボックスをきりかえる
-もちものせいり
-ようすをみる
-もちもの
-マーキング
-にがす
-つれていく
-あずける
-やめる
-いどうする
-いどうする
-ねかせる
-けってい
-やめる
-いれかえ
-やめる
-やめる
-ボックスを\xfffeきりかえる
-かべがみを\xfffeはりかえる
-ポケモンを\xfffeあずける
-バッグへ
-もたせる
-いどうする
+CHANGER BOITE
+FOND
+NOM
+ANNULER
+DECOR 1
+DECOR 2
+DECOR 3
+MISC.
+FAVORIT 1
+FAVORIT 2
+FORET
+VILLE
+DESERT
+SAVANNE
+ROCHE
+VOLCAN
+NEIGE
+CAVE
+PLAGE
+MARIN
+RIVIERE
+CIEL
+⒆⒇ CCentre
+MACHINE
+VERIFICATION
+SIMPLE
+SPECIAL
+MONOCHROME
+TEAM PLASMA
+POKÉSTAR STUDIOS
+PWT
+KYUREM1
+KYUREM2
+RESHIRAM
+ZEKROM
+BACK
+PRECEDENT
+SUIVANT
+PARTIE ⒆⒇
+LISTE DES BOITES
+BOITE COMBAT
+CHANGER LA BOITE
+BOUGER OBJET
+RESUME
+ITEM
+MARQUAGE
+PRESSER
+RETIRER
+DEPOSER
+ANNULER
+BOUGER
+BOUGER
+TUCK IN
+CONFIRMER
+ANNULER
+REPLACER
+QUITTER
+QUITTER
+CHANGER DE\xfffeBOITE
+CHANGER DE\xfffeFOND
+STOCKER\xfffePOKÉMON
+SAC
+DONNER
+BOUGER
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-せいかく
-とくせい
-もちもの
+NATURE
+CAPACITE
+OBJET
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-なし
-？？？
-Ｌｖ．
-Ｎｏ．
-もっているわざ
-はい
-いいえ
-ボックスを　せいりする
-バトルボックス
+Rien
+???
+Nv.
+No.
+CAPACITE APPRISES
+OUI
+NON
+BOUGER LE POKEMON
+BOITE DE COMBAT
 ポケモンを　しぼりこむ
 じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
 ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
@@ -147,12 +147,12 @@
 ポケモンの\xfffeせいべつを　えらんでください。
 ポケモンの　もちものに　ついて\xfffeえらんでください。
 ポケモンの　マーキングについて\xfffeえらんでください。
-\xf000봂\x0000なまえ
-\xf000봂\x0000せいかく
-\xf000봂\x0000とくせい
-\xf000봂\x0000せいべつ
-\xf000봂\x0000もちもの
-\xf000봂\x0000マーク
+\xf000봂\x0000NAME
+\xf000봂\x0000NATURE
+\xf000봂\x0000CHARACTERISTIC
+\xf000봂\x0000GENDER
+\xf000봂\x0000HOLD ITEM
+\xf000봂\x0000MARK
 ア
 イ
 ウ
@@ -197,9 +197,9 @@
 レ
 ロ
 ワ
-ー
+--
 ♂
 ♀
-せいべつなし
-もっている
-もっていない
+NATURE
+CAPACITE
+OBJET
