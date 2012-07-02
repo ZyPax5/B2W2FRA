@@ -12,45 +12,45 @@ Choisissez un fond.
 Continuer la gestion des boîtes?
 La Boîte est pleine.
 Le sac est plein.
-Took the \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000 is now being held.
-Which one will you take?
-Place it in which Box?
-No item held
+Prendre le \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 est tenu.
+Lequel prendrez-vous?
+Placer dans quel boîte?
+Aucun objet tenu
 ♂
 ♀
-Take this \xf000ĉ\x0001\x0000?
-Mail can't be taken away.
-\xf000ĉ\x0001\x0000 is selected.
-Put away \xf000ĉ\x0001\x0000?
-Placed \xf000ĉ\x0001\x0000 in the Bag.
-It can hold an item.
-Please remove the Mail.
-You can't release an Egg.
-You can't release a fused Kyurem.
-\xf000Ă\x0001\x0000 came back!
-Was it worried about you?
-An Egg can't hold an item.
-Touch the Mark!
-DEPOSIT POKÉMON
-WITHDRAW POKÉMON
-The Box is full.
-Your party's full!
-DEPOSIT POKÉMON
-WITHDRAW POKÉMON
-MOVE POKÉMON
-MOVE ITEMS
-BATTLE BOX
-SELECT A SLEEPY POKÉMON
-Mail cannot be moved!
-It cannot hold \xf000ĉ\x0001\x0000!
-It has Mail!
-You're out of Pokémon that can fight!
-Mail cannot be moved!
-It cannot hold Mail here.
-Eggs cannot be selected!
-\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
-This Pokémon doesn't seem\xfffesleepy now.
-Select another Pokémon?
-Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
-Your Battle Box is locked.\xfffeItems cannot be given or taken.
+Prendre \xf000ĉ\x0001\x0000?
+Cette lettre ne peut pas être enlevé.
+\xf000ĉ\x0001\x0000 séléctionné
+Ranger \xf000ĉ\x0001\x0000?
+\xf000ĉ\x0001\x0000est rangé dans le sac!
+Il peut tenir un objet
+Supprimez la lettre.
+Vous ne pouvez relacher un oeuf.
+Vous ne pouvez relacher un Kyurem Fusionné.
+\xf000Ă\x0001\x0000 est revenue!
+Etait-il inquiet pour vous?
+Un oeuf ne peut pas tenir d'objet
+Touchez la marque!
+DEPOSER UN POKEMON
+RETIRER UN POKÉMON
+La Boîte est pleine.
+Votre équipe est complète!
+DEPOSER UN POKEMON
+RETIRER UN POKEMON
+DEPLACER UN POKÉMON
+DEPLACER UN OBJET
+EQUIPE
+SELECTIONNER UN POKEMON ENDORMIE
+Les lettres ne peuvent être déplacées.
+Il ne peut pas tenir\xf000ĉ\x0001\x0000!
+Il a une lettre!
+Vous n'avez plus de pokémon capable de se battre!
+Les lettres ne peuvent être déplacées.
+Il ne peut pas tenir de lettre ici.
+Un oeuf ne peut être séléctionné!
+\xf000Ă\x0001\x0000va être placé\xfffeOK?
+Ce pokémon ne semble pas\xfffedormir.
+Séléctionner un autre pokémon?
+Votre boîte de combat est fermée.\xfffeVous ne pouvez pas déplacer vos pokémon
+Votre boîte de combat est fermée.\xfffeLes objets ne peuvent être\xfffe pris ni tenue.
