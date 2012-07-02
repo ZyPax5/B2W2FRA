@@ -1,13 +1,13 @@
-Ｃ－ＧＥＡＲ
-ＩＲ
-Ｗｉｒｅｌｅｓｓ
-ＧａｍｅＳｙｎｃ
-Ｔｒａｄｅ
-Ｂａｔｔｌｅ
-ＦｒｉｅｎｄＣｏｄｅ
-Ｃａｒｄ
-Ｃ－ＧＥＡＲ＞ＩＲ
-Ｃ－ＧＥＡＲ＞ＩＲ＞ＢＡＴＴＬＥ
-Ｃ－ＧＥＡＲ＞ＩＲ＞ＴＲＡＤＥ
-Ｃ－ＧＥＡＲ＞ＧＡＭＥＳＹＮＣ
-Ｃ－ＧＥＡＲ＞ＷＩＲＥＬＥＳＳ
+C-GEAR
+IR
+Wi-Fi
+Synchro-Jeu
+Echange
+Combat
+Code Amis
+Carte de dresseur
+C-GEAR>IR
+C-GEAR>IR>COMBAT
+C-GEAR>IR>ECHANGE
+C-GEAR>IR>SYNCHRO-JEU
+C-GEAR>IR>WI-FI
