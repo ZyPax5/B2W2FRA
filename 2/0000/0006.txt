@@ -43,39 +43,39 @@ Boire
 Fermer
 \xf000ĉ\x0001\x0000est séléctionné.
 Vous ne pouvez pas\xfffeécrire d'email ici!
-ポケモンが　いませんよ！
-\xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-\xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
-これいじょう　あずけられません！
-これは　たいせつなもの　なので\xfffeすてることが　できません！
-\xf000ĉ\x0001\x0000を　いくつ　すてますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてました
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてても　よろしいですか？
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-ここでは　おりられない！
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-あなたの　コイン　\xf000Ȅ\x0001\x0000まい
-わざマシンを　きどうした！
-ひでんマシンを　きどうした！
-なかには　\xf000ć\x0001\x0000が\xfffeきろく　されていた！\xf000븁\x0000\xfffe\xf000ć\x0001\x0000を\xfffeポケモンに　おぼえさせますか？
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
-まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しやすくなった！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しにくくなった！
-ボックスが　いっぱい　です！
-こなの　りょう　\xf000ȃ\x0001\x0000
+Ce n'est pas un Pokémon!
+Bouger\xf000ĉ\x0001\x0000
+L'objet\xf000ĉ\x0001\x0000\xfffene peut être tenue!
+Vous ne pouvez pas lui donner\xf000ĉ\x0001\x0000\xfffeici!
+Stocker combien\xf000ĉ\x0001\x0000\xfffe?
+Vous avez stocké\xf000ĉ\x0001\x0000\xfffe\xf000ȁ\x0001\x0001
+Vous ne pouvez plus rien stocker!
+C'est un objet important\xfffevous ne pouvez pas le jeter!
+Jeter combien\xf000ĉ\x0001\x0000?
+Jeté\xf000ĉ\x0001\x0000\xfffe\xf000Ȃ\x0001\x0001
+Jeter\xf000ĉ\x0001\x0000\xfffe\xf000Ȃ\x0001\x0001?
+Conseil du professeur……\xfffe\xf000Ā\x0001\x0000rChaque choses en son temps!
+Vous ne pouvez pas ranger votre\xfffevélo ici！
+Conseil du professeur……\xfffe\xf000Ā\x0001\x0000rChaque choses en son temps!
+Votre argent: \xf000Ȅ\x0001\x0000
+CT Activée！
+CS Activéé！
+Elle contient\xf000ć\x0001\x0000\xfffeApprendre\xf000븁\x0000\xfffe\xf000ć\x0001\x0000\xfffeà un pokémon？
+\xf000Ā\x0001\x0000à utilisé\xfffe\xf000ĉ\x0001\x0001
+Repousse encore active\xfffevous ne pouvez en utiliser\xfffeune autre maintenant.
+\xf000Ā\x0001\x0000\xfffe\xf000ĉ\x0001\x0001a utilisé\xf000븁\x0000\xfffeLes Pokémons sauvages seront attirés!
+\xf000Ā\x0001\x0000\xfffe\xf000ĉ\x0001\x0001a utilisé\xf000븁\x0000\xfffeLes Pokémons sauvages seront repoussés!
+La boite est pleine!
+Poudre:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-きのみのこな
-ポケモンのふえを　ふいた！\xfffeうーん！　すばらしい　ねいろだ！
-ポケモンのふえを　ふいた！
-ふえのねを　きいた\xfffeポケモンは　めを　さました
-いどう
-\xf000ĉ\x0001\x0000を\xfffeかいとることは　できません
+Poudre de baie
+Vous jouez de la Poké flute\xfffeWow! ça sonne bien!
+Vous jouez de la Poké Flute!
+Le Pokémon a entendu la\xfffeflute et se réveille!
+Bouger
+\xf000ĉ\x0001\x0000? Oh non.\xfffeJe ne peut pas acheter ça!
 \xf000ĉ\x0001\x0000を\xfffeいくつ　うりますか？
 それなら　\xf000Ȇ\x0001\x0000円で\xfffeおひきとり　いたしましょう
 \xf000ĉ\x0001\x0000を　わたして\xfffe\xf000Ȇ\x0001\x0001円を　うけとった
