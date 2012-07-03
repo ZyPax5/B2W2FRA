@@ -1,4 +1,4 @@
-Voulez vous enregistrer la vidéo du combat de\xfffe maintenant ?
+Voulez vous enregistrer la vidéo du combat\xfffe maintenant ?
 Oui
 Non
 Le dernier combat ne sera pas enregistré.\xfffeOK?
