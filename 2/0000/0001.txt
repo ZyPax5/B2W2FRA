@@ -44,10 +44,10 @@ Ca a été enfermé dans un nuage de fumée blanche！\xfffe
 \xf000ĉ\x0001\x0000 \xfffea été utilisé
 Le deuxième Pokémon\xfffene permet pas de viser correctement!
 Il n'y a plus de place dans votre PC!
-\xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
-It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
-It’s no good, it's impossible\xfffeto aim at a Pokémon not in sight!
+\xf000ć\x0001\x0001 est là pour empêcher l'utilisation\xfffed'un autre objet!\xfffe\xf000Ă\x0001\x0000
+Ce n'est pas bon, il est impossible\xfffede viser un pokémon\xfffequi n'est pas en vue!
+Ce n'est pas bon, il est impossible\xfffede viser un pokémon\xfffequi n'est pas en vue!
 Plus assez d'énergie!
 Conseil du professeur...\xfffeChaque chose en son temps!\xf000븀\x0000\xfffe
 Impossible de viser\xfffecorectement sans concentration
-The Ball cannot be used \xfffebecause of the device Ghetsis used!
+Pokéball inutilisable\xfffeen raison du dispositif\xfffemis en place par Ghetis!
